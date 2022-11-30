@@ -9,6 +9,8 @@ To open dashboard use following steps:
 1. Download ipynb file from the repository and run it in jupyter notebook or jupyterLabs
 2. Open Anaconda Prompt(coding) from start menu
 3. Enter panel serve [.ipnb filename] 
+
 4.Run it. You will get following output
 ![image](https://user-images.githubusercontent.com/109480278/204825364-936afff2-31c0-4941-a659-db1879cc9de6.png)
+
 5. copy http://localhost address and run it in a new tab in browser
